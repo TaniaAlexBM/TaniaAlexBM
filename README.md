@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello 😁
+
+I'm junior Frontend Developer.
+
+I was studying in bootcamp Hackademy since a year. I worked projects with framework Angular. My projects are in my second profile in GitHub.
+
+I'm learning Python for Data Science. I'm studying Pandas, Numpy and Matplotlib.
+
 
 <!--
 **TaniaAlexBM/TaniaAlexBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
