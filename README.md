@@ -2,10 +2,22 @@
 
 I'm junior Frontend Developer.
 
-I was studying in bootcamp Hackademy since a year. I worked projects with framework Angular. My projects are in my second profile in GitHub.
+I was studying in bootcamp [Hackademy](https://hackademy.lat/) since a year. I worked projects with framework Angular.
+My projects are in [my second profile](https://github.com/AlexBM45) in GitHub.
 
-I'm learning Python for Data Science. I'm studying Pandas, Numpy and Matplotlib.
+I'm learning Data Science.
+* Pandas
+* Matplotlib
+* Numpy
+* Visualizations
+  * Power BI
+  * Tableau
 
+I certificated in Azure Fundamentals AZ-900
+
+Social Media
+- [LinkedIn](https://www.linkedin.com/in/alejandrabm/)
+- [Twitter](https://twitter.com/LilithIchigo)
 
 <!--
 **TaniaAlexBM/TaniaAlexBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
