@@ -6,6 +6,7 @@ I was studying in bootcamp [Hackademy](https://hackademy.lat/) since a year. I w
 My projects are in [my second profile](https://github.com/AlexBM45) in GitHub.
 
 I'm learning Data Science.
+* Python
 * Pandas
 * Matplotlib
 * Numpy
