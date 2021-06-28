@@ -7,9 +7,9 @@ My projects are in [my second profile](https://github.com/AlexBM45) in GitHub.
 
 I'm learning Data Science.
 * Python
-* Pandas
-* Matplotlib
-* Numpy
+  * Pandas
+  * Matplotlib
+  * Numpy
 * Visualizations
   * Power BI
   * Tableau
