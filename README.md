@@ -2,10 +2,11 @@
 
 I'm junior Frontend Developer.
 
-I was studying in bootcamp [Hackademy](https://hackademy.lat/) since a year. I worked projects with framework Angular.
+I was studying in bootcamp [Hackademy](https://hackademy.lat/) in 2020. I worked projects with framework Angular.
 My projects are in [my second profile](https://github.com/AlexBM45).
 
-I'm learning Data Science.
+I'm learning Data Science and I study Ciencia de Datos in Instituto Rosario Castellanos.
+I'm learning:
 * Python
   * Pandas
   * Matplotlib
@@ -13,6 +14,7 @@ I'm learning Data Science.
 * Visualizations
   * Power BI
   * Tableau
+* Julia
 
 I certificated in Azure Fundamentals AZ-900
 
