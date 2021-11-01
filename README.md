@@ -5,7 +5,7 @@ I'm junior Frontend Developer.
 I was studying in bootcamp [Hackademy](https://hackademy.lat/) in 2020. I worked projects with framework Angular.
 My projects are in [my second profile](https://github.com/AlexBM45).
 
-I'm learning Data Science and I study Ciencia de Datos in Instituto Rosario Castellanos.
+I'm learning Data Science and I'm studying Ciencia de Datos in Instituto Rosario Castellanos.
 I'm learning:
 * Python
   * Pandas
