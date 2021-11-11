@@ -3,7 +3,9 @@
 I'm junior Frontend Developer.
 
 I participated in bootcamp [Hackademy](https://hackademy.lat/) in 2020. I worked projects with framework Angular.
-My projects are in [my second profile](https://github.com/AlexBM45).
+My projects about Web are in [my second profile](https://github.com/AlexBM45).
+
+I'm working in [my profile](https://deepnote.com/@taniaalexbm) in Deepnote.com with topics about Python and Data Science, too.
 
 I'm learning Data Science and I'm studying Ciencia de Datos in Instituto Rosario Castellanos.
 I'm learning:
@@ -21,8 +23,7 @@ I certificated in Azure Fundamentals AZ-900
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lilithichigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lilithichigo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alejandrabm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandrabm" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/alejandrabm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandrabm" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
