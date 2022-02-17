@@ -1,6 +1,6 @@
 ### Hello 😁
 
-I'm junior Frontend Developer.
+I'm junior Backend Developer.
 
 I participated in bootcamp [Hackademy](https://hackademy.lat/) in 2020. I worked projects with framework Angular.
 My projects about Web are in [my second profile](https://github.com/AlexBM45).
