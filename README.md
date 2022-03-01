@@ -2,17 +2,18 @@
 
 I'm Backend Developer.
 
-I participated in bootcamp [Hackademy](https://hackademy.lat/) in 2020. I worked projects with framework Angular.
+I participated in bootcamp [Hackademy](https://hackademy.lat/) in 2020. I worked project with framework Angular.
 My projects about Web are in [my second profile](https://github.com/AlexBM45).
 
-I'm working in [my profile](https://deepnote.com/@taniaalexbm) in Deepnote.com with topics about Python and Data Science, too.
+I'm working in [my profile](https://deepnote.com/@taniaalexbm) in Deepnote with topics about Python and Data Science, too.
 
-I'm learning Data Science and I'm studying Ciencia de Datos in Instituto Rosario Castellanos.
+I'm studying Ciencia de Datos in Instituto Rosario Castellanos.
 I'm learning:
 * Python
   * Pandas
-  * Matplotlib
   * Numpy
+  * Matplotlib
+  * Altair
 * Visualizations
   * Power BI
   * Tableau
