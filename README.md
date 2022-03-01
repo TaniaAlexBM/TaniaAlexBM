@@ -12,6 +12,7 @@ I'm learning:
 * Python
   * Pandas
   * Numpy
+  * Sklearn
   * Matplotlib
   * Altair
 * Visualizations
