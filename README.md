@@ -1,11 +1,9 @@
 ### Hello 😁
 
-I participated in bootcamp [Hackademy](https://hackademy.lat/) in 2020.
-My projects about Web are in [my second profile](https://github.com/AlexBM45).
+I'm a student in topics of Data Science, especially Data Engineer. I'm working projects in Deepnote with topics of Python and Data Science, too: [my profile](https://deepnote.com/@taniaalexbm)
 
-I'm working in [my profile](https://deepnote.com/@taniaalexbm) in Deepnote with topics about Python and Data Science, too.
 
-I'm studying Ciencia de Datos in Instituto Rosario Castellanos.
+I'm studying in Instituto de Estudios Superiores Rosario Castellanos.
 
 I'm learning:
 * Python
@@ -19,7 +17,15 @@ I'm learning:
   * Tableau
 * Julia
 
+
 I certificated in Azure Fundamentals AZ-900
+
+
+I participated in bootcamp [Hackademy](https://hackademy.lat/) in 2020.
+My projects about Web are in [my second profile](https://github.com/AlexBM45).
+
+
+I'm doing Certification in Data Analyst with [Laboratoria](https://www.laboratoria.la/) e IBM.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
