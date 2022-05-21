@@ -1,5 +1,10 @@
 ### Hello 😁
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://octodex.github.com/images/stormtroopocat.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://octodex.github.com/octobiwan/">
+</picture>
+
 I'm a student in topics of Data Science, especially Data Engineer. I'm working projects in Deepnote with topics of Python and Data Science, too: [my profile](https://deepnote.com/@taniaalexbm)
 
 
