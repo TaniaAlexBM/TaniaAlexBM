@@ -6,6 +6,7 @@
 </picture>
 
 I'm a student in topics of Data Science, especially Data Engineer. I'm working projects in Deepnote with topics of Python and Data Science, too: [my profile](https://deepnote.com/@taniaalexbm)
+I'm Technician at Bluetab
 
 
 I'm learning:
@@ -15,6 +16,8 @@ I'm learning:
   - [x] Scikit-learn
   - [x] Matplotlib
   - [x] Altair
+  - [ ] Scala
+  - [ ] Spark
 - [ ] Visualizations
   - [x] Power BI
   - [ ] Tableau
