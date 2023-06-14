@@ -32,7 +32,9 @@ I participated in bootcamp [Hackademy](https://hackademy.lat/) in 2020.
 My projects about Web are in [my second profile](https://github.com/AlexBM45).
 
 
-I'm doing Certification in Data Analyst by [Laboratoria](https://www.laboratoria.la/) e IBM.
+I'm doing [Certification in Data Analyst](https://www.credly.com/badges/47caa55d-2284-4359-8f3a-78eea109b0b3) by [Laboratoria](https://www.laboratoria.la/) e IBM. 
+
+And I studied [Data Analitycs Certification](https://www.credly.com/badges/4d011739-cb99-45cd-b17a-7dc0d15aa375/linked_in_profile) by Google.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
