@@ -25,12 +25,9 @@ I'm learning:
 - [ ] Julia
 
 
-I certificated in Azure Fundamentals AZ-900 by @Microsoft in @innovaccion-virtual
+I certificated in [Azure Fundamentals AZ-900](https://learn.microsoft.com/en-us/users/alejandrabm/credentials/1fd4b6a5084d0930) by @Microsoft in @innovaccion-virtual
 
-
-I participated in bootcamp [Hackademy](https://hackademy.lat/) in 2020.
-My projects about Web are in [my second profile](https://github.com/AlexBM45).
-
+I certificated in [AWS Certified Cloud Practitioner](https://www.credly.com/badges/1e57f51e-3ecb-4191-a932-e9589079cc56/linked_in_profile)
 
 I'm doing [Certification in Data Analyst](https://www.credly.com/badges/47caa55d-2284-4359-8f3a-78eea109b0b3) by [Laboratoria](https://www.laboratoria.la/) e IBM. 
 
